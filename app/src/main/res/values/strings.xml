@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lesson_5</string>
+    <string name="hello">Hello</string>
+    <string name="buttonT">TRUE</string>
+    <string name="buttonF">FALSE</string>
+</resources>
